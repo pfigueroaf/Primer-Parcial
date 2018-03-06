@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+  cout <<"********\n";
+  cout <<"*\t*\n";
+  cout <<"*\t*\n";
+      cout <<"*\t*\n"; 
+      cout <<"********\n";
+      cout <<"*\t*\n";
+      cout <<"*\t*\n";
+      cout <<"*\t*\n";
+      cout <<"********\n";
+
+      return 0;
+}
+
+    
